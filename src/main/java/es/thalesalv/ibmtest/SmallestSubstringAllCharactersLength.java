@@ -35,7 +35,7 @@ public class SmallestSubstringAllCharactersLength {
             }
         }
 
-        return "No suitable window found.";
+        return str;
     }
 
     private static boolean isSuitable(String substr, Map<Character, Integer> charMap) {

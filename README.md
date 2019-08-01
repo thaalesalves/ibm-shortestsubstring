@@ -9,4 +9,4 @@ This small application iterates given string to find the shortest substring that
 * **daabcbcbdc:** `The first shortest substring in "daabcbcbdc" is "daabc", and its length is 5`
 * **aabcbcbdca:** `The first shortest substring in "aabcbcbdca" is "bdca", and its length is 4`
 * **aaaae:** `The first shortest substring in "aaaae" is "ae", and its length is 2`
-* **argh:** `No suitable window found.`
+* **argh:** `argh.`
